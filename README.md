@@ -57,7 +57,7 @@ for i in range(160 + 40):
 
 # Escribe "Te amo" en la parte superior del girasol
 turtle.penup()
-turtle.goto(0, 100)  # Ajusta la posición vertical según sea necesario
+turtle.goto(0, 80)  # Ajusta la posición vertical según sea necesario
 turtle.color("Red")  # Color del texto
 turtle.write("Te amo", align="center", font=("Arial", 24, "bold"))
 
